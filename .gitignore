@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Confidential audio dataset — never upload
+*.wav
+*.mp3
+*.flac
+*.m4a
+audio/
+segments/
+
+# Reference transcripts (may contain real PII)
+*.txt
