@@ -1,0 +1,48 @@
+{
+    "Systran/faster-whisper-medium": {
+        "01A9A615-C60F-49CA-C940-08DCD97289A3.mp3": {
+            "substitute": 358,
+            "delete": 830,
+            "insert": 60,
+            "equal": 1032,
+            "WER": 0.3549,
+            "NEER": 0.4407,
+            "total_reference_words": 8860,
+            "total_entity_words": 59,
+            "entity_words_in_error": 26
+        },
+        "0A5A81B6-4F72-426E-484A-08DD2132583D.mp3": {
+            "substitute": 576,
+            "delete": 607,
+            "insert": 120,
+            "equal": 1030,
+            "WER": 0.2974,
+            "NEER": 0.301,
+            "total_reference_words": 9381,
+            "total_entity_words": 103,
+            "entity_words_in_error": 31
+        },
+        "0C6B8D53-0A65-46DF-9556-08DD610B97FD.mp3": {
+            "substitute": 333,
+            "delete": 354,
+            "insert": 69,
+            "equal": 593,
+            "WER": 0.281,
+            "NEER": 0.5455,
+            "total_reference_words": 5563,
+            "total_entity_words": 33,
+            "entity_words_in_error": 18
+        },
+        "0C9FC851-1C2E-4D4A-7B3F-08DDB2C4B1C7.mp3": {
+            "substitute": 699,
+            "delete": 696,
+            "insert": 152,
+            "equal": 1206,
+            "WER": 0.2752,
+            "NEER": 0.4574,
+            "total_reference_words": 10050,
+            "total_entity_words": 94,
+            "entity_words_in_error": 43
+        }
+    }
+}

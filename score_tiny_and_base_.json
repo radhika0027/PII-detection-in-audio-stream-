@@ -1,0 +1,156 @@
+{
+    "tiny": {
+        "01A9A615-C60F-49CA-C940-08DCD97289A3.mp3": {
+            "WER": 0.4639,
+            "NEER": 0.6306,
+            "total_reference_words": 8897,
+            "total_entity_words": 222,
+            "entity_words_in_error": 140
+        },
+        "0A5A81B6-4F72-426E-484A-08DD2132583D.mp3": {
+            "WER": 0.6388,
+            "NEER": 0.6777,
+            "total_reference_words": 9442,
+            "total_entity_words": 332,
+            "entity_words_in_error": 225
+        },
+        "0C6B8D53-0A65-46DF-9556-08DD610B97FD.mp3": {
+            "WER": 0.657,
+            "NEER": 0.7105,
+            "total_reference_words": 5597,
+            "total_entity_words": 152,
+            "entity_words_in_error": 108
+        },
+        "0C9FC851-1C2E-4D4A-7B3F-08DDB2C4B1C7.mp3": {
+            "WER": 0.6587,
+            "NEER": 0.5386,
+            "total_reference_words": 10089,
+            "total_entity_words": 791,
+            "entity_words_in_error": 426
+        },
+        "0D193BBD-3024-4865-6A01-08DD81123178.mp3": {
+            "WER": 0.5095,
+            "NEER": 0.7436,
+            "total_reference_words": 6887,
+            "total_entity_words": 117,
+            "entity_words_in_error": 87
+        },
+        "0DB66B6C-44B2-4675-3729-08DD92B6C28A.mp3": {
+            "WER": 0.5163,
+            "NEER": 0.6667,
+            "total_reference_words": 7542,
+            "total_entity_words": 270,
+            "entity_words_in_error": 180
+        },
+        "0DCC5244-22F2-4398-2234-08DD6B7CB098.mp3": {
+            "WER": 0.5933,
+            "NEER": 0.6786,
+            "total_reference_words": 5906,
+            "total_entity_words": 168,
+            "entity_words_in_error": 114
+        },
+        "0E4E2F4B-E52E-45D0-8688-08DD9CE9F263.mp3": {
+            "WER": 0.8303,
+            "NEER": 0.746,
+            "total_reference_words": 17090,
+            "total_entity_words": 807,
+            "entity_words_in_error": 602
+        },
+        "1A8EE32E-88C1-4CBE-3CDF-08DCDE70FD3D.mp3": {
+            "WER": 0.732,
+            "NEER": 0.7273,
+            "total_reference_words": 9414,
+            "total_entity_words": 308,
+            "entity_words_in_error": 224
+        },
+        "1B7FD75F-3624-4A12-58D4-08DD2075A2C6.mp3": {
+            "WER": 0.5496,
+            "NEER": 0.7286,
+            "total_reference_words": 14362,
+            "total_entity_words": 70,
+            "entity_words_in_error": 51
+        },
+        "_summary": {
+            "files_scored": 10,
+            "average_WER": 0.6149,
+            "average_NEER": 0.6848
+        }
+    },
+    "base": {
+        "01A9A615-C60F-49CA-C940-08DCD97289A3.mp3": {
+            "WER": 0.4094,
+            "NEER": 0.527,
+            "total_reference_words": 8897,
+            "total_entity_words": 222,
+            "entity_words_in_error": 117
+        },
+        "0A5A81B6-4F72-426E-484A-08DD2132583D.mp3": {
+            "WER": 0.5143,
+            "NEER": 0.6476,
+            "total_reference_words": 9442,
+            "total_entity_words": 332,
+            "entity_words_in_error": 215
+        },
+        "0C6B8D53-0A65-46DF-9556-08DD610B97FD.mp3": {
+            "WER": 0.5376,
+            "NEER": 0.5789,
+            "total_reference_words": 5597,
+            "total_entity_words": 152,
+            "entity_words_in_error": 88
+        },
+        "0C9FC851-1C2E-4D4A-7B3F-08DDB2C4B1C7.mp3": {
+            "WER": 0.5001,
+            "NEER": 0.4399,
+            "total_reference_words": 10089,
+            "total_entity_words": 791,
+            "entity_words_in_error": 348
+        },
+        "0D193BBD-3024-4865-6A01-08DD81123178.mp3": {
+            "WER": 0.4231,
+            "NEER": 0.641,
+            "total_reference_words": 6887,
+            "total_entity_words": 117,
+            "entity_words_in_error": 75
+        },
+        "0DB66B6C-44B2-4675-3729-08DD92B6C28A.mp3": {
+            "WER": 0.4153,
+            "NEER": 0.4852,
+            "total_reference_words": 7542,
+            "total_entity_words": 270,
+            "entity_words_in_error": 131
+        },
+        "0DCC5244-22F2-4398-2234-08DD6B7CB098.mp3": {
+            "WER": 0.4526,
+            "NEER": 0.4881,
+            "total_reference_words": 5906,
+            "total_entity_words": 168,
+            "entity_words_in_error": 82
+        },
+        "0E4E2F4B-E52E-45D0-8688-08DD9CE9F263.mp3": {
+            "WER": 0.74,
+            "NEER": 0.6803,
+            "total_reference_words": 17090,
+            "total_entity_words": 807,
+            "entity_words_in_error": 549
+        },
+        "1A8EE32E-88C1-4CBE-3CDF-08DCDE70FD3D.mp3": {
+            "WER": 0.6085,
+            "NEER": 0.6331,
+            "total_reference_words": 9414,
+            "total_entity_words": 308,
+            "entity_words_in_error": 195
+        },
+        "1B7FD75F-3624-4A12-58D4-08DD2075A2C6.mp3": {
+            "WER": 0.7794,
+            "NEER": 0.9286,
+            "total_reference_words": 14362,
+            "total_entity_words": 70,
+            "entity_words_in_error": 65
+        },
+        "_summary": {
+            "files_scored": 10,
+            "average_WER": 0.538,
+            "average_NEER": 0.605
+        }
+    }
+}
