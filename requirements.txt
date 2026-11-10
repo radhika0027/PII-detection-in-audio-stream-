@@ -1,0 +1,11 @@
+# Core dependencies for the audio PII redaction + benchmarking pipeline.
+# Install with:  pip install -r requirements.txt
+# NOTE: PyDub also needs FFmpeg installed on your system (not a pip package) —
+#       it uses it to load .m4a/.mp3 files. Install FFmpeg separately and make
+#       sure it is on your PATH.
+
+faster-whisper      # speech-to-text with word-level timestamps
+transformers        # transformer PII / token-classification model
+torch               # backend for Whisper + transformers (GPU if available)
+pydub               # audio loading, slicing, beeping/muting
+jiwer               # Word Error Rate scoring in score.py
